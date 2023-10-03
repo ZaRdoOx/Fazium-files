@@ -1,5 +1,7 @@
 if game.PlaceId == 3527629287 then -- Big Paintball
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Big-Paintball"))()
-elseif game.PlaceId == 14433762945 then -- nime Champions Simulator
+elseif game.PlaceId == 14433762945 then -- Anime Champions Simulator
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/ACS"))()
+elseif game.PlaceId == 6918802270 then -- HAZE PIECE
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Haze-Piece"))()
 end 
