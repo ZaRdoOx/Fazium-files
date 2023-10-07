@@ -4,4 +4,6 @@ elseif game.PlaceId == 14433762945 then -- Anime Champions Simulator
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/ACS"))()
 elseif game.PlaceId == 6918802270 then -- HAZE PIECE
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Haze-Piece"))()
+elseif game.PlaceId == 14979402479 then -- HAZE PIECE SEA 2
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Haze-Piece-Sea2"))()
 end 
