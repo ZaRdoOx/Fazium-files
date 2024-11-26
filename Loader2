@@ -1,3 +1,5 @@
 if game.PlaceId == 89438510123061 then -- Anime Shadow
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Anime-Shadow"))()
+elseif game.PlaceId == 16732694052 then -- Fisch
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Fisch"))()
 end 
