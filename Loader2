@@ -4,4 +4,6 @@ elseif game.PlaceId == 16732694052 then -- Fisch
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Fisch"))()
 elseif game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId == 15759515082 then -- King Legacy
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/King-Legacy"))()
+elseif game.PlaceId == 16347800591 then -- Anime Royale
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Anime-Royale"))()
 end 
