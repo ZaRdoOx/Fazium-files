@@ -6,6 +6,6 @@ elseif game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/King-Legacy"))()
 elseif game.PlaceId == 16347800591 then -- Anime Royale
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Anime-Royale"))()
-elseif game.PlaceId == 84188796720288 or game.PlaceId == 100222912269336 or game.PlaceId == 84188796720288 or game.PlaceId == 100222912269336 then -- Anime Realms Dupe
+elseif game.PlaceId == 84188796720288 or game.PlaceId == 100222912269336 or game.PlaceId == 84188796720288 then -- Anime Realms Dupe
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Anime-Realms-Dupe"))()
 end 
