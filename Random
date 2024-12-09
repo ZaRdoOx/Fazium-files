@@ -1,6 +1,6 @@
 local originalLoadstring = loadstring
 function loadstring(source)
-    if source:find("ZaRdoOx/Fazium-files/main/Random") then
+    if source:find("raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Random") then
         print("test ok")
     end
     return originalLoadstring(source)
