@@ -10,4 +10,6 @@ elseif game.PlaceId == 100222912269336 or game.PlaceId == 84188796720288 then --
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Anime-Realms-Dupe"))()
 elseif game.PlaceId == 17201094408 then -- Anime Multiverse
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Anime-Multiverse"))()
+elseif game.PlaceId == 16498193900 then -- Lootify
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Lootify"))()
 end 
